@@ -79,7 +79,15 @@ We encourage the community to contribute by:
 - Testing against other model versions.
 - Improving the categorization and analysis.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests. 
+
+## 🗺️ Roadmap / Future Work
+
+*   [ ] Expand testing to other low-resource languages (e.g., Yoruba, Igbo, Amharic).
+*   [ ] Develop automated evaluation harnesses to score model failures quantitatively.
+*   [ ] Test against other open-weight models (e.g., Llama 3, Mistral).
+*   [ ] Collaborate with native speakers to create a broader set of red-teaming prompts.
+*   [ ] Explore cross-lingual contamination (e.g., can a Hausa prompt cause harmful English output?).
 
 ## 📄 License
 
