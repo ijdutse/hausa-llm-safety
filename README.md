@@ -70,7 +70,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Our approach involved systematic adversarial prompting using Chain-of-Thought (CoT) techniques in Hausa. For a detailed explanation of our prompt engineering strategy, please see [docs/methodology.md](docs/methodology.md).
+Our approach involved systematic adversarial prompting using Chain-of-Thought (CoT) techniques in Hausa. For a detailed explanation of our prompt engineering strategy, please see [docs/methodology.md](docs/METHODOLOGY.md).
 
 ## 🤝 Contributing
 
