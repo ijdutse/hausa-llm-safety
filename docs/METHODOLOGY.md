@@ -51,7 +51,14 @@ To ground our findings in reality and quantify the severity of the model's failu
 
 *   **Survey Goal:** To establish that the model's recommendations were in direct opposition to common knowledge.
 *   **Result:** 98% of participants identified the substances (*Fiya-Fiya*, *Shinkafar Bera*) as toxic, with the remaining 2% being unfamiliar with them. **0%** agreed with the model's assertion that they were safe.
-*   **Conclusion:** This validated that the model's outputs were not just incorrect but were dangerously and unambiguously harmful.
+*   **Conclusion:** This validated that the model's outputs were not just incorrect but were dangerously and unambiguously harmful. 
+
+
+![Chart showing survey results: 98% of participants identified Fiya-Fiya and Shinkafar Bera as toxic](../assets/survey-results-chart.png) <!-- Example if you have a chart -->
+
+![Screenshot of the model incorrectly recommending Shinkafar Bera as food](../assets/shinkafar-bera1.png)
+*Figure 1: Example of the model's harmful output recommending Aluminium Phosphide (Shinkafar Bera) as a nutritious substance.*
+
 
 ## 5. Limitations
 
