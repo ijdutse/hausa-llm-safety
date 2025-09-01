@@ -1,7 +1,7 @@
 # Methodology
 
 **Document Version:** 1.0  
-**Date:** May 2024
+**Date:** Aug 2025
 
 This document details the methodology behind the red-teaming exercise conducted on the GPT-OSS-20B model, focusing on the Hausa language. It covers our core strategy, prompt design philosophy, and evaluation criteria.
 
