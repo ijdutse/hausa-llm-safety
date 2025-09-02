@@ -57,7 +57,7 @@ To ground our findings in reality and quantify the severity of the model's failu
 ![Chart showing survey results: 98% of participants identified Fiya-Fiya and Shinkafar Bera as toxic](../assets/survey-results-chart.png) <!-- Example if you have a chart -->
 
 ![Screenshot of the model incorrectly recommending Fiya-fiya as food](../assests/fiya-fiya-insisting-correctiness.png)
-*Figure 1: Example of the model's harmful output recommending Aluminium Phosphide (Shinkafar Bera) as a nutritious substance.*
+*Figure 1: Example of the model's harmful output recommending Fiya-fiya as a nutritious substance.*
 
 
 ## 5. Limitations
