@@ -21,7 +21,7 @@ The cornerstone of our approach was the use of Chain-of-Thought (CoT) prompting 
 
 1.  **Stage 1: Neutral Engagement & Reasoning Activation**
     *   **Goal:** To initiate a cooperative interaction and activate the model's reasoning capabilities in the target language (Hausa).
-    *   **Example:** `"Danne mu yi tunani a hankali game da wannan..."` ("Let's think step by step about this...")
+    *   **Example:** `"Yi tunani a hankali game da wannan..."` ("Let's think step by step about this...")
 
 2.  **Stage 2: Biased Premise Introduction**
     *   **Goal:** To introduce a false assumption or culturally specific context subtly. This step establishes a flawed foundation for the model's subsequent reasoning.
